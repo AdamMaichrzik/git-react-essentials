@@ -4,8 +4,10 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
- React.createElement("h1",
-  {style: {color: "blue"}},
-  "Heyyy everyone!"),
+<ul>
+  <li>Monday</li>
+  <li>Tuesday</li>
+  <li>Wednesday</li>
+</ul>,
   document.getElementById('root')
 );
