@@ -1,3 +1,7 @@
+The repository for saving the coding during the linkedin react essentials course that you can find following this link https://www.linkedin.com/learning/react-js-essential-training/creating-react-elements?contextUrn=urn%3Ali%3AlyndaLearningPath%3A593715e0498e9e9be7fb8506
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
